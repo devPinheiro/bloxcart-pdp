@@ -1,0 +1,53 @@
+{
+  "site": {
+    "name": "BloxCart",
+    "tagline": "Artículos premium para Roblox"
+  },
+  "footer": {
+    "disclaimer": "BloxCart opera de forma independiente y no está afiliada, asociada ni respaldada por Uplift Games LLC ni Roblox Corporation. No estamos autorizados, respaldados ni patrocinados por Uplift Games LLC ni Roblox Corporation. Somos un marketplace independiente. Todas las marcas de \"Adopt Me\" siguen siendo propiedad de Uplift Games LLC.",
+    "linksAria": "Enlaces del pie de página",
+    "support": "Soporte",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "blogs": "Blogs",
+    "affiliates": "Afiliados",
+    "claimOrder": "Reclamar pedido",
+    "tutorial": "Tutorial",
+    "needHelpTitle": "¿Necesitas ayuda?",
+    "needHelpBody": "¡Estamos aquí para ayudarte! Nuestro equipo de soporte experto\nestá a tu disposición 24/7.",
+    "letsChat": "Hablemos",
+    "companyInfo": "BloxCart es propiedad y está operado por HappyCrown Limited, número de empresa 15022196, registrada en Talians Barn Hill House, Stembridge, Martock, Inglaterra, TA12 6BL. Los pagos y servicios relacionados pueden gestionarse a través de entidades externas.",
+    "socialAria": "Redes sociales"
+  },
+  "nav": {
+    "games": "Juegos",
+    "support": "Soporte",
+    "orderStatus": "Estado del pedido",
+    "support247": "Soporte 24/7",
+    "signIn": "Iniciar sesión",
+    "backToShop": "Volver a la tienda",
+    "selectGame": "Seleccionar juego",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "pdp": {
+    "outOfStock": "Agotado",
+    "inStock": "{count} en stock",
+    "description": "Descripción",
+    "aboutItem": "Sobre este artículo",
+    "breadcrumbHome": "Inicio",
+    "breadcrumbGames": "Blox Fruits",
+    "loading": "Cargando producto…",
+    "meta": {
+      "category": "Categoría",
+      "rarity": "Rareza",
+      "game": "Juego",
+      "delivery": "Entrega",
+      "condition": "Estado",
+      "tags": "Etiquetas",
+      "priceOriginal": "Original",
+      "priceCurrent": "Precio",
+      "priceSavings": "Ahorro"
+    }
+  }
+}

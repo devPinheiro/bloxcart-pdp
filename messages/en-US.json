@@ -1,0 +1,53 @@
+{
+  "site": {
+    "name": "BloxCart",
+    "tagline": "Premium Roblox game items"
+  },
+  "footer": {
+    "disclaimer": "BloxCart operates independently and is not affiliated, associated, or endorsed by Uplift Games LLC or Roblox Corporation. We are not authorized, endorsed, or sponsored by Uplift Games LLC and Roblox Corporation. We are an independent marketplace site. All \"Adopt Me\" trademarks remain the property of the Uplift Games LLC.",
+    "linksAria": "Footer links",
+    "support": "Support",
+    "resources": "Resources",
+    "legal": "Legal",
+    "blogs": "Blogs",
+    "affiliates": "Affiliates",
+    "claimOrder": "Claim Order",
+    "tutorial": "Tutorial",
+    "needHelpTitle": "Need help?",
+    "needHelpBody": "We're here to help! Our expert\nsupport team is at your service 24/7.",
+    "letsChat": "Let's chat",
+    "companyInfo": "BloxCart is owned and operated by HappyCrown Limited, company number 15022196, registered at Talians Barn Hill House, Stembridge, Martock, England, TA12 6BL. Payments and related services may be handled via external entities.",
+    "socialAria": "Social media"
+  },
+  "nav": {
+    "games": "Games",
+    "support": "Support",
+    "orderStatus": "Order Status",
+    "support247": "24/7 Support",
+    "signIn": "Sign in",
+    "backToShop": "Back to Shop",
+    "selectGame": "Select game",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "pdp": {
+    "outOfStock": "Out of stock",
+    "inStock": "{count} in stock",
+    "description": "Description",
+    "aboutItem": "About this item",
+    "breadcrumbHome": "Home",
+    "breadcrumbGames": "Blox Fruits",
+    "loading": "Loading product…",
+    "meta": {
+      "category": "Category",
+      "rarity": "Rarity",
+      "game": "Game",
+      "delivery": "Delivery",
+      "condition": "Condition",
+      "tags": "Tags",
+      "priceOriginal": "Original",
+      "priceCurrent": "Price",
+      "priceSavings": "Savings"
+    }
+  }
+}
